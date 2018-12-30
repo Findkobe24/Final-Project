@@ -73,9 +73,9 @@ class SamePlaceException extends Exception {
 ### 集合类型
 - 为了保存生物体的运动轨迹以及火焰的位置，通过ArrayList和Pair构造了一个存储三元组的列表
 ```
-//存储生物体的运动轨迹
+// store trace of creatures
 ArrayList<Pair<String, Pair<Integer, Integer>>> record = new ArrayList<Pair<String, Pair<Integer, Integer>>>();
-//存储火焰的位置
+// store positions of flames
 ArrayList<Pair<Pair<Integer, Integer>, Integer>> storedFlames = new ArrayList<>();
 ```
 
@@ -89,11 +89,11 @@ ArrayList<Pair<Pair<Integer, Integer>, Integer>> storedFlames = new ArrayList<>(
 ### 输入输出
 - 由于需要保存战斗记录以及回放战斗记录，所以需要涉及到文件的输入输出
 ```
-// 输出
+// Output
 PrintWriter printWriter = new PrintWriter(new FileWriter(filename, true));
 printWriter.println(this.getName() + " " + this.getPosX() + " " + this.getPosY());
 printWriter.close();
-// 输入
+// Input
 in = new Scanner(new FileInputStream(filename));
 while (in.hasNext()) {
 	String name = in.next();
