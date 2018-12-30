@@ -1,0 +1,313 @@
+Red 2 7
+Orange 4 7
+Yellow 3 8
+Green 2 8
+Blue 5 5
+Indigo 2 10
+Purple 2 8
+Grandpa 5 4
+LittleMonster8 18 5
+LittleMonster9 19 4
+LittleMonster10 18 8
+LittleMonster11 21 6
+Snaker 21 5
+Scorpion 21 6
+Red 3 8
+Green 4 9
+Flame 19 6 -1
+Yellow 5 4
+Snaker 21 4
+Orange 4 10
+Scorpion 20 9
+LittleMonster11 21 7
+LittleMonster10 20 7
+LittleMonster8 18 4
+Grandpa 3 7
+Purple 4 6
+Indigo 3 5
+Blue 2 5
+LittleMonster9 18 8
+Red 2 8
+Green 2 7
+Flame 4 6 1
+Yellow 5 7
+Flame 3 7 1
+Orange 2 6
+LittleMonster9 18 6
+Snaker 18 9
+LittleMonster8 21 8
+Grandpa 5 9
+Purple 5 6
+Indigo 4 4
+Blue 5 5
+Scorpion 19 9
+LittleMonster10 18 5
+LittleMonster11 19 4
+Red 3 10
+Flame 2 7 1
+Green 3 5
+Yellow 5 4
+Orange 4 7
+Scorpion 18 7
+Snaker 21 5
+LittleMonster11 21 9
+LittleMonster10 20 5
+LittleMonster9 18 5
+LittleMonster8 19 7
+Indigo 2 7
+Blue 2 4
+Grandpa 4 6
+Flame 3 10 1
+Red 5 9
+Flame 19 7 -1
+LittleMonster8 20 4
+Grandpa 3 10
+Indigo 2 10
+Blue 3 6
+Green 4 9
+Yellow 3 7
+Orange 5 10
+Scorpion 19 7
+Snaker 18 10
+LittleMonster11 18 8
+LittleMonster10 21 9
+LittleMonster9 20 9
+Flame 5 9 1
+Red 5 5
+Flame 3 7 1
+Flame 4 9 1
+Yellow 2 4
+Orange 4 7
+Flame 2 10 1
+Green 2 5
+Grandpa 4 4
+Flame 18 10 -1
+Indigo 3 4
+Blue 5 4
+Snaker 21 10
+LittleMonster11 18 5
+LittleMonster9 19 4
+LittleMonster10 20 10
+LittleMonster8 20 9
+Flame 5 5 1
+Red 3 6
+Flame 4 7 1
+Orange 4 9
+Flame 2 5 1
+Yellow 3 7
+Green 4 6
+Blue 5 10
+Grandpa 5 8
+Indigo 2 8
+LittleMonster9 21 8
+LittleMonster8 19 9
+Snaker 19 6
+LittleMonster11 19 5
+LittleMonster10 19 8
+Flame 3 6 1
+Red 5 9
+Flame 4 9 1
+Orange 5 5
+Green 3 8
+Grandpa 4 5
+Indigo 5 8
+LittleMonster10 21 9
+LittleMonster9 18 4
+Snaker 21 4
+LittleMonster11 18 8
+Red 3 5
+Green 4 9
+Orange 3 6
+Snaker 20 9
+LittleMonster11 20 7
+LittleMonster9 21 4
+Grandpa 4 10
+Indigo 5 9
+Red 3 8
+Green 3 9
+Orange 2 9
+Snaker 21 6
+Indigo 4 5
+Grandpa 4 8
+LittleMonster9 19 8
+Red 5 7
+Flame 3 9 1
+Green 2 10
+Orange 4 6
+Indigo 5 9
+Grandpa 3 8
+LittleMonster9 19 10
+Red 2 8
+Orange 2 5
+LittleMonster9 19 5
+Grandpa 4 7
+Green 2 4
+Indigo 5 5
+Red 2 10
+Green 5 7
+Flame 4 7 1
+Orange 4 10
+LittleMonster9 21 5
+Grandpa 3 10
+Indigo 4 5
+Red 4 6
+Indigo 2 7
+Flame 21 5 -1
+Orange 3 6
+LittleMonster9 21 4
+Grandpa 5 8
+Green 4 10
+Red 4 5
+Indigo 4 7
+Flame 21 4 -1
+Green 2 10
+Orange 4 9
+LittleMonster9 19 8
+Grandpa 2 8
+Flame 4 5 1
+Red 4 6
+LittleMonster9 21 5
+Grandpa 4 5
+Indigo 3 4
+Green 2 8
+Orange 2 9
+Red 3 6
+Flame 2 9 1
+Orange 4 6
+Green 4 7
+Flame 3 4 1
+Indigo 4 8
+LittleMonster9 20 9
+Red 4 10
+Green 2 7
+Orange 3 6
+LittleMonster9 19 10
+Indigo 2 10
+Flame 4 10 1
+Red 3 10
+LittleMonster9 20 10
+Indigo 3 5
+Green 4 8
+Orange 5 9
+Red 4 4
+Indigo 3 8
+Orange 3 4
+LittleMonster9 18 4
+Green 5 7
+Red 4 7
+Green 4 4
+Orange 5 7
+Indigo 2 7
+LittleMonster9 21 8
+Red 3 6
+Green 2 10
+Orange 4 6
+LittleMonster9 21 10
+Indigo 2 6
+Flame 4 6 1
+Red 2 8
+Flame 2 10 1
+Green 3 9
+Indigo 4 8
+Orange 3 5
+LittleMonster9 20 4
+Red 2 9
+Green 2 7
+Flame 20 4 -1
+Orange 4 10
+LittleMonster9 20 6
+Indigo 4 6
+Flame 4 10 1
+Red 4 7
+Flame 2 7 1
+Green 5 4
+Flame 4 6 1
+Indigo 3 8
+Flame 20 6 -1
+Orange 2 10
+LittleMonster9 19 5
+Flame 4 7 1
+Red 2 4
+Flame 2 10 1
+Orange 2 8
+Flame 5 4 1
+Green 5 5
+Flame 3 8 1
+Indigo 4 9
+Flame 19 5 -1
+LittleMonster9 19 8
+Orange 4 7
+Indigo 5 8
+Green 2 10
+LittleMonster9 18 9
+Orange 4 4
+Indigo 2 6
+Green 3 8
+LittleMonster9 20 4
+Flame 4 4 1
+Orange 4 8
+Flame 3 8 1
+Green 4 7
+Indigo 4 4
+LittleMonster9 21 8
+Flame 4 8 1
+Orange 3 9
+Flame 4 7 1
+Green 2 7
+Indigo 3 5
+LittleMonster9 19 8
+Flame 2 7 1
+Orange 4 10
+LittleMonster9 18 9
+Indigo 4 8
+Green 5 9
+Orange 4 6
+Flame 4 8 1
+Indigo 2 10
+Green 2 7
+Flame 18 9 -1
+LittleMonster9 20 4
+Orange 2 9
+LittleMonster9 20 5
+Indigo 3 6
+Green 4 10
+Orange 5 7
+Indigo 3 8
+Green 2 8
+LittleMonster9 18 4
+Orange 5 4
+Indigo 4 10
+Green 4 7
+LittleMonster9 20 5
+Orange 3 9
+Indigo 4 4
+LittleMonster9 20 6
+Green 4 9
+Orange 5 9
+Flame 20 6 -1
+Indigo 3 5
+LittleMonster9 20 8
+Green 4 8
+Orange 5 8
+Green 4 9
+LittleMonster9 18 10
+Indigo 2 9
+Orange 3 5
+Indigo 4 8
+Green 4 10
+LittleMonster9 19 10
+Orange 3 10
+Flame 4 10 1
+Green 2 6
+Flame 4 8 1
+Indigo 2 5
+LittleMonster9 21 10
+Orange 3 5
+Flame 2 6 1
+Green 2 8
+Indigo 4 4
+LittleMonster9 21 8
+Orange 2 6
+Indigo 3 10
+Green 3 9
+LittleMonster9 21 10

@@ -1,0 +1,224 @@
+Red 3 8
+Orange 2 9
+Yellow 3 7
+Green 3 9
+Blue 5 10
+Indigo 5 9
+Purple 5 6
+Grandpa 4 10
+LittleMonster8 20 9
+LittleMonster9 18 5
+LittleMonster10 21 9
+LittleMonster11 20 7
+Snaker 21 10
+Scorpion 19 7
+Red 4 7
+Orange 5 9
+LittleMonster10 21 9
+LittleMonster9 19 10
+LittleMonster8 19 5
+Grandpa 3 9
+Purple 5 10
+Indigo 5 5
+Blue 4 6
+Green 5 8
+Flame 22 9 -1
+Yellow 4 9
+Scorpion 19 9
+Snaker 18 8
+LittleMonster11 21 10
+Flame 4 7 1
+Red 3 6
+Flame 4 6 1
+Blue 2 4
+Flame 5 5 1
+Green 2 7
+Orange 3 4
+Purple 4 6
+Flame 21 10 -1
+Yellow 5 8
+Indigo 3 5
+Flame 19 9 -1
+Snaker 20 5
+LittleMonster11 18 8
+LittleMonster10 18 6
+LittleMonster9 21 6
+LittleMonster8 19 4
+Grandpa 2 6
+Scorpion 20 9
+Red 5 10
+Yellow 2 10
+Scorpion 21 5
+Orange 4 10
+Snaker 20 9
+LittleMonster11 20 8
+LittleMonster10 18 7
+LittleMonster9 21 4
+Purple 5 4
+LittleMonster8 21 10
+Grandpa 5 5
+Indigo 5 6
+Blue 2 6
+Green 5 8
+Red 4 5
+Flame 5 10 1
+Orange 3 7
+Yellow 2 8
+Flame 2 8 1
+Green 2 10
+Flame 5 8 1
+Blue 5 8
+Indigo 3 4
+Purple 3 6
+LittleMonster11 19 6
+LittleMonster9 21 8
+Grandpa 3 9
+LittleMonster8 20 5
+Snaker 20 8
+Scorpion 20 9
+Red 4 4
+Flame 3 4 1
+Blue 5 7
+Yellow 2 9
+Flame 3 6 1
+Purple 3 10
+Indigo 5 10
+Scorpion 19 10
+Snaker 20 4
+LittleMonster9 18 6
+Orange 5 6
+Flame 4 4 1
+Red 3 7
+Orange 4 8
+Snaker 20 9
+LittleMonster9 19 9
+Indigo 2 8
+Blue 2 5
+Purple 5 7
+Yellow 5 9
+Red 3 8
+Flame 2 8 1
+Indigo 3 6
+Blue 2 9
+Flame 5 7 1
+Yellow 2 5
+Flame 20 9 -1
+Orange 2 7
+Snaker 18 10
+LittleMonster9 18 5
+Purple 4 9
+Red 4 7
+Flame 3 6 1
+Blue 4 4
+Flame 4 9 1
+Orange 3 5
+Purple 5 9
+Indigo 5 4
+Snaker 20 4
+LittleMonster9 19 4
+Yellow 2 4
+Red 5 8
+Blue 4 8
+Orange 4 5
+Indigo 2 7
+Yellow 4 4
+Purple 3 5
+Snaker 18 5
+Red 3 10
+Blue 2 4
+Yellow 2 6
+Snaker 19 5
+Indigo 5 9
+Orange 3 7
+Red 4 8
+Flame 5 9 1
+Yellow 2 8
+Orange 4 7
+Snaker 21 10
+Indigo 4 9
+Blue 5 4
+Flame 4 8 1
+Red 5 8
+Orange 5 10
+Snaker 18 10
+Indigo 2 7
+Blue 5 5
+Yellow 3 4
+Flame 5 8 1
+Red 2 5
+Orange 2 6
+Flame 2 7 1
+Yellow 2 8
+Indigo 5 6
+Snaker 18 4
+Blue 5 10
+Red 5 8
+Flame 2 6 1
+Orange 5 7
+Yellow 4 9
+Indigo 4 4
+Blue 3 7
+Snaker 21 7
+Red 2 8
+Flame 4 9 1
+Yellow 5 10
+Orange 4 10
+Blue 4 9
+Indigo 2 6
+Snaker 18 5
+Red 3 6
+Yellow 5 4
+Orange 3 10
+Snaker 19 7
+Indigo 2 5
+Blue 3 7
+Flame 3 6 1
+Red 4 9
+Flame 2 5 1
+Indigo 2 6
+Blue 2 9
+Orange 5 10
+Snaker 20 7
+Yellow 3 7
+Red 5 9
+Yellow 3 4
+Orange 3 8
+Snaker 21 7
+Indigo 5 7
+Blue 5 4
+Flame 5 9 1
+Red 3 10
+Flame 5 4 1
+Blue 2 7
+Yellow 2 4
+Orange 3 7
+Snaker 20 8
+Indigo 5 9
+Flame 3 10 1
+Red 4 6
+Flame 3 7 1
+Orange 4 7
+Yellow 2 9
+Blue 4 5
+Snaker 20 6
+Indigo 3 4
+Red 5 6
+Flame 4 5 1
+Blue 2 4
+Yellow 2 5
+Orange 4 10
+Snaker 19 5
+Indigo 2 6
+Red 4 9
+Yellow 3 4
+Snaker 20 8
+Indigo 5 5
+Blue 5 9
+Orange 4 5
+Flame 4 5 1
+Red 4 8
+Snaker 21 5
+Indigo 3 6
+Blue 4 10
+Yellow 2 8
+Orange 3 7
